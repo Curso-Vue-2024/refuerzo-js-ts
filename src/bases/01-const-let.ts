@@ -2,6 +2,14 @@
 // Variables y constantes
 // ----------------------
 
+// Comentarios:
+// Todo lo que empieza con // es un comentario y es ignorado a la hora de ejecutar el programa.
+// no hay límite de comentarios, aunque se aconseja que sean breves y concisos.
+
+/*
+  Esto es un comentario en bloque. 
+*/
+
 // En typescript no se usa var
 // var firstName = 'Tony';
 

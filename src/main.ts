@@ -7,7 +7,11 @@ import viteLogo from "/vite.svg";
 // de './bases/01-const-let'.
 // Guarda los dos archivos, recarga el navegador y observa la consola de las herramientas de desarrollo.
 // Si aparece 'Tony Elgordo', ¡ehorabuena! has hecho tu primer programa en typescrip.
-import "./bases/01-const-let";
+// import "./bases/01-const-let";
+// import "./bases/02-object";
+// import "./bases/03-arrays";
+// import "./bases/04-functions";
+import "./bases/05-deses-obj";
 
 document.querySelector<HTMLDivElement>("#app")!.innerHTML = `
   <div>
